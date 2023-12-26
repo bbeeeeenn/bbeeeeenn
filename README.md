@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ben
+- 🌱 I’m currently learning MERN Stack
