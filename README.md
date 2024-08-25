@@ -1,6 +1,6 @@
-### Hello 👋
+## Hello 👋
 
-**About me:**
+About me:
 
 -  ❤️ Passionate for programming and open to learn more
 -  🎓 On the path to a Computer Science degree at [<image src="assets/csu.png" style="height: 35px; padding: 5px" /> Caraga State University](https://maps.app.goo.gl/5tfByC7Zv5Ja4TpG8)
