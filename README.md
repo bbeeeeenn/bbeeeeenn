@@ -4,7 +4,7 @@ About me:
 
 -  🎓 On the path to a Computer Science degree at [<image src="assets/csu.png" style="height: 20px" /> Caraga State University](https://maps.app.goo.gl/5tfByC7Zv5Ja4TpG8)
 -  🔮 Passionate for programming and open to learn more
--  ⭐ Inspired by Himmel the Hero from [Sousou no Frieren: Beyond Journey's End](https://myanimelist.net/anime/52991/Sousou_no_Frieren/reviews?filter_check=3)
+-  ❤️ Inspired by my sunshine
 
 **Languages and tools I use;**
 
