@@ -1,6 +1,6 @@
-## I love hotdogs, because they are not a dog.
+## I just love coding.
 
-🎓 On the path to a Computer Science degree at <a href="https://maps.app.goo.gl/5tfByC7Zv5Ja4TpG8"><image src="assets/csu.png" style="height: 35px; padding: 5px; transform: translate(0, 15px)" />Caraga State University</a>
+-  **🎓 On the path to a Computer Science degree at [<image src="assets/csu.png" style="height: 35px; padding: 5px" /> Caraga State University](https://maps.app.goo.gl/5tfByC7Zv5Ja4TpG8)**
 
 **Languages and tools I use;**
 
