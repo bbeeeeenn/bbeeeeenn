@@ -9,8 +9,8 @@ About me:
 **Languages and tools I use;**
 
 <span>
-	<img title="JavaScript" height="40" style="padding: 5px;" src="assets/javascript.png" />
-	<img title="Python" height="40" style="padding: 5px;" src="assets/python.png" />
-	<img title="Node.js" height="40" style="padding: 5px;" src="assets//nodejs.png" />
-	<img title="React.js" height="40" style="padding: 5px;" src="assets//react.png" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img title="JavaScript" height="40" style="padding: 5px;" src="assets/javascript.png" /></a>
+	<a href="https://docs.python.org/3/"><img title="Python" height="40" style="padding: 5px;" src="assets/python.png" /></a>
+	<a href="https://nodejs.org/"><img title="Node.js" height="40" style="padding: 5px;" src="assets//nodejs.png" /></a>
+	<a href="https://react.dev/"><img title="React.js" height="40" style="padding: 5px;" src="assets//react.png" /></a>
 </span>
