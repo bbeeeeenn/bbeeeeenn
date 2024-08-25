@@ -1,5 +1,7 @@
 ## I love hotdogs, because they are not a dog.
 
+**Expertise**
+
 <span>
 	<img title="JavaScript" height="40" style="padding: 5px;" src="assets//javascript.png" />
 	<img title="React.js"      height="40" style="padding: 5px;" src="assets//react.png" />
