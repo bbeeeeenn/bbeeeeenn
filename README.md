@@ -8,6 +8,7 @@ About me:
 **Languages and tools I use;**
 
 <span>
+    <a target="_blank" href="https://code.visualstudio.com/"><img title="Visual Studio Code" height="40" style="padding: 5px; scale:1.8" src="assets/vscode.png" /></a>
     <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img title="Javascript" height="40" style="padding: 5px;" src="assets/javascript.png" /></a>
     <a target="_blank" href="https://www.typescriptlang.org/"><img title="Typescript" height="40" style="padding: 5px;" src="assets/typescript.png" /></a>
 	<a target="_blank" href="https://docs.python.org/3/"><img title="Python" height="40" style="padding: 5px;" src="assets/python.png" /></a>
