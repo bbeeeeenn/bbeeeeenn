@@ -12,5 +12,5 @@ About me:
 	<a target="_blank" href="https://docs.python.org/3/"><img title="Python" height="40" style="padding: 5px;" src="assets/python.png" /></a>
 	<a target="_blank" href="https://nodejs.org/"><img title="NodeJS" height="40" style="padding: 5px;" src="assets//nodejs.png" /></a>
 	<a target="_blank" href="https://react.dev/"><img title="ReactJS" height="40" style="padding: 5px;" src="assets//react.png" /></a>
-    <a target="_blank" href="https://www.mongodb.com/"><img title="MongoDB.js" height="40" style="padding: 5px;" src="assets//mongodb.png" /></a>
+    <a target="_blank" href="https://www.mongodb.com/"><img title="MongoDB" height="40" style="padding: 5px;" src="assets//mongodb.png" /></a>
 </span>
