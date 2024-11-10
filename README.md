@@ -15,7 +15,7 @@ About me:
     <a href="https://nodejs.org/"><img title="NodeJS" height="40" style="padding: 5px;" src="assets/nodejs.png" /></a>
     <a href="https://www.npmjs.com/"><img title="npm" height="40" style="padding: 5px;" src="assets/npm.png" /></a>
     <a href="https://react.dev/"><img title="ReactJS" height="40" style="padding: 5px;" src="assets/react.png" /></a>
-    <a href="https://nextjs.org/"><img title="NextJS" height="40" style="padding: 5px;" src="assets/nextjs.webp" /></a>
     <a href="https://tailwindcss.com/"><img title="TailwindCSS" height="40" style="padding: 5px;" src="assets/tailwindcss.png" /></a>
+    <a href="https://nextjs.org/"><img title="NextJS" height="40" style="padding: 5px;" src="assets/nextjs.webp" /></a>
     <a href="https://www.mongodb.com/"><img title="MongoDB" height="40" style="padding: 5px;" src="assets/mongodb.png" /></a>
 </span>
