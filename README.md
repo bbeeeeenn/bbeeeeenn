@@ -9,10 +9,10 @@ About me:
 
 <span>
     <a href="https://code.visualstudio.com/"><img title="Visual Studio Code" height="40" style="padding: 5px;" src="assets/vscode.png" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img title="Javascript" height="40" style="padding: 5px;" src="assets/javascript.png" /></a>
-    <a href="https://www.typescriptlang.org/"><img title="Typescript" height="40" style="padding: 5px;" src="assets/typescript.png" /></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img title="C#" height="40" style="padding: 5px;" src="assets/csharp.png" /></a>
     <a href="https://docs.python.org/3/"><img title="Python" height="40" style="padding: 5px;" src="assets/python.png" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img title="Javascript" height="40" style="padding: 5px;" src="assets/javascript.png" /></a>
+    <a href="https://www.typescriptlang.org/"><img title="Typescript" height="40" style="padding: 5px;" src="assets/typescript.png" /></a>
     <a href="https://nodejs.org/"><img title="NodeJS" height="40" style="padding: 5px;" src="assets/nodejs.png" /></a>
     <a href="https://www.npmjs.com/"><img title="npm" height="40" style="padding: 5px;" src="assets/npm.png" /></a>
     <a href="https://react.dev/"><img title="ReactJS" height="40" style="padding: 5px;" src="assets/react.png" /></a>
