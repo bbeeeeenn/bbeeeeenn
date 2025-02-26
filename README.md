@@ -4,6 +4,7 @@ About me:
 
 -  🎓 On the path to a Computer Science degree at [<image src="assets/csu.png" style="height: 20px" /> Caraga State University](https://maps.app.goo.gl/5tfByC7Zv5Ja4TpG8)
 -  🔮 Passionate for programming and open to learn more
+-  ❤️ C#
 
 **My techs;**
 
