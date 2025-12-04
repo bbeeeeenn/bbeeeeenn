@@ -2,7 +2,7 @@
 
 About me:
 
--  🎓 On the path to a Computer Science degree
+-  🎓 On the path to a `Computer Science` degree.
 
 **My techs;**
 
